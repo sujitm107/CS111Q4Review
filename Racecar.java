@@ -1,8 +1,9 @@
 public class Racecar{
+    private int capacity;
 
     // In the beginning, the car has a full tank of gas and is going 0 MPH.public 
     public Racecar(int capacity){
-        
+        this.capacity = capacity;
     }
     
     // Gets the current speed of the car

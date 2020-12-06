@@ -18,7 +18,7 @@ public class Errors {
         // (j) arr3[0].length;
         // (k) arr3[1].length();
         // (l) s.length;
-        // (m) s.charAt(s.indexOf('H')); -- wrong on answerkey
+        // (m) s.charAt(s.indexOf('H')); -- H
         // (n) s.charAt(s.indexOf('Q'));
         // (o) s.indexOf('Q');
         // (p) arr2[0];
